@@ -20,6 +20,6 @@ I'm a front-end developer with experience building web applications using a vari
 </div>
 
 #Connect with me:
-<div  align="left">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celso-gon%C3%A7alves) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:celsoalbugo@gmail.com) 
-</div>
+
