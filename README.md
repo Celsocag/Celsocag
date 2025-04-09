@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Celso Albuquerque</h1>
-<h3 align="center">A passionate frontend developer from São Paulo.</h3>
+<h1 align="left">Hi 👋, I'm Celso Albuquerque</h1>
+<h3 align="left">A passionate frontend developer from São Paulo.</h3>
 
 - 🔭 I’m currently working on **a**
 
