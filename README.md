@@ -1,4 +1,7 @@
-<h3>Hi 👋, I'm Celso Albuquerque</h3>
+
+![Wave Waving Hi GIF](https://github.com/user-attachments/assets/0cacd038-aa52-46ba-a5b1-f840ad582ad6)
+
+- 👋 Hi, I'm Celso Albuquerque
 
 - 🔭 Front-end developer with 4+ years of experience building responsible, high-performance web applications
 
