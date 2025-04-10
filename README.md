@@ -1,4 +1,4 @@
-
+<img src="../hi.gif" width="300px" height="auto">
 
 - 👋 Hi, I'm Celso Albuquerque
 
