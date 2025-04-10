@@ -1,4 +1,4 @@
-<img src="./hi.gif" width="300px" height="auto">
+<img src="https://github.com/Celsocag/Celsocag/blob/main/hi.gif" width="123px" height="auto">
 
 - 👋 Hi, I'm Celso Albuquerque
 
