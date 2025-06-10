@@ -21,7 +21,7 @@
 
 <h3>👇 My Portfolio </h3>
 
- [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-blue)](bit.ly/celsocag)
+ [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-blue)](https://bit.ly/celsocag)
 
 
 <h3>📧 You can contact me on: </h3>
