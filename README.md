@@ -1,7 +1,7 @@
 
 - 👋 Hi, I'm Celso Albuquerque
 
-- 🔭 Software Enginer with 4+ years of experience building responsible, high-performance web applications
+- 🔭 Software engineer with 4+ years of experience building responsible, high-performance web applications
 
 - 👍 Proficient in front-end technologies like Angular and React.
 
